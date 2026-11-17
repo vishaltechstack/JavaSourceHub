@@ -33,7 +33,7 @@ JavaWorkbanch/
     │   ├── 🌐 messages_hi_IN.properties
     │   └── 🌐 messages_fr_FR.properties
     ├── 📁 Core_Java_Fundamentals/       # 01. Variables, Operators, Control Flow, Loops
-    ├── 📁 step2_structures/             # 02. Arrays, String vs StringBuilder, Methods
+    ├── 📁 structures/             # 02. Arrays, String vs StringBuilder, Methods
     ├── 📁 Oops_Basics/                  # 03. Classes, Objects, Constructors, Encapsulation
     ├── 📁 Advanced_Oops/                # 04. Inheritance, Polymorphism, Abstraction, Interfaces
     ├── 📁 Exceptions_Collections/       # 05. Custom Exceptions, List, Set, Map
@@ -46,7 +46,7 @@ JavaWorkbanch/
     ├── 📁 JDBC/                         # 11. PreparedStatement CRUD, ResultSet, Transactions
     ├── 📁 Reflection_Serialization/     # 12. Custom Annotations, Reflection API, Serializable
     ├── 📁 Modern_Java17_21/             # 13. Records, Sealed Classes, Pattern Matching, Text Blocks
-    ├── 📁 step14_virtual_threads/       # 14. Project Loom Virtual Threads, ReentrantLock, Fan-Out
+    ├── 📁 virtual_threads/       # 14. Project Loom Virtual Threads, ReentrantLock, Fan-Out
     ├── 📁 Advanced_Functional/          # 15. CompletableFuture Pipelines, Custom Collectors, Currying
     ├── 📁 Data_Structures/              # 16. LinkedList, Stack, Queue, BST from Scratch
     ├── 📁 Algorithms/                   # 17. Binary Search, Merge Sort, Quick Sort
@@ -54,11 +54,11 @@ JavaWorkbanch/
     ├── 📁 Datetime_API/                 # 19. LocalDateTime, ZonedDateTime, Instant, Duration
     ├── 📁 Regex/                        # 20. Pattern, Matcher, Named Groups, Input Validators
     ├── 📁 Packaging/                    # 21. Classpath Properties Loading & Executable JAR Packaging
-    ├── 📁 step22_security_crypto/       # 22. SecureRandom, SHA-256 Salted Hashing, AES-256-GCM
+    ├── 📁 security_crypto/       # 22. SecureRandom, SHA-256 Salted Hashing, AES-256-GCM
     ├── 📁 Internationalization/         # 23. Locale, ResourceBundle (EN/HI/FR), NumberFormat
     ├── 📁 Memory_Tuning/                # 24. Soft/Weak References, WeakHashMap, String Interning, JMX
-    ├── 📁 step25_solid_principles/      # 25A. SRP, OCP, LSP, ISP, Dependency Inversion
-    └── 📁 step25_spi_plugins/           # 25B. Dynamic Runtime Plugin Discovery via ServiceLoader
+    ├── 📁 solid_principles/      # 25A. SRP, OCP, LSP, ISP, Dependency Inversion
+    └── 📁 spi_plugins/           # 25B. Dynamic Runtime Plugin Discovery via ServiceLoader
 ```
 
 ---
