@@ -132,8 +132,8 @@ cd Core-Java-Engineering-Workbench
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishaltechstack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishaltechstack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Java](https://img.shields.io/badge/Java_Development-4479A1?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/JavaSourceHub-4479A1?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ---
 
-⭐ *Follow along with the daily commits, and feel free to star the repository if you're practicing SQL!*
+⭐ *Follow along with the daily commits, and feel free to star the repository if you're practicing JAVA!*
